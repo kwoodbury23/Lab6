@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This formats the design of the application -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Lab_font" parent="Theme.AppCompat.DayNight">
+        <!-- This formats the font -->
+        <item name="android:fontFamily">serif</item>
+        <!-- This formats the size of the text -->
+        <item name="android:textSize">16sp</item>
+        <!-- This formats the color of the text -->
+        <item name="android:textColor">#3F51B5</item>
+        <!-- This formats the style of the text -->
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>
